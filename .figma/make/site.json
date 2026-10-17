@@ -1,0 +1,10 @@
+{
+  "description": "Create a personalized romantic landing page filled with vibrant colors, adorable animations, and a calendar for date planning, celebrating your loved one.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
